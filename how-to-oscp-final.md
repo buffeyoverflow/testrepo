@@ -125,7 +125,7 @@ Can you access shares?
   - Worth burning MSF strike?
 
 
-### SNMP - UDP 169
+### SNMP - UDP 161
 
 - Try to enumerate windows shares / network info
 
